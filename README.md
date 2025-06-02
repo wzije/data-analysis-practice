@@ -1,11 +1,11 @@
-# Modul Praktikum Analisis Data
+# Modul Praktikum Analisis Data (Pemula)
 
 ---
 
 ## Modul Praktikum
 
-1. [Dasar](./MOD-BASIC.md)
-2. [Lanjutan](./MOD-MAIN.md)
+1. [Dasar](./READ-BASIC.md)
+2. [Lanjutan](./READ-MAIN.md)
 
 ---
 
