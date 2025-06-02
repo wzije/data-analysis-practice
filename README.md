@@ -2,7 +2,14 @@
 
 ---
 
-1. [MADUL DASAR](./MOD-BASIC.md)
-2. [MODUL LANJUTAN](./MOD-MAIN.md)
+## Modul Praktikum
+
+1. [Dasar](./MOD-BASIC.md)
+2. [Lanjutan](./MOD-MAIN.md)
 
 ---
+
+## Download Dataset
+
+[Dataset Excel](./data/dataset.xlsx)
+[Dataset Feather](./data/dataset.feather)
